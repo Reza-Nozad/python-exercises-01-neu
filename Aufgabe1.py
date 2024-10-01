@@ -7,3 +7,5 @@ print("mein Vorname ist :", first_name)
 print("mein Nachname ist :", last_name)
 print("main Geburtsjahr ist :", birth_year)
 print("mein Führaerscheinstatus ist:", has_license)
+print("die Aufgabe 1 ist erledigt!")
+
