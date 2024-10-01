@@ -6,3 +6,5 @@ print("Das Produkt von a und b", a*b)
 print("Den ganzzahligen Quotienten von a und b =", a//b)
 print("Den Rest der Division von a und b", a%b)
 print("Den Wert von a hoch b =", a**b)
+print("die Aufgabe 2 ist erledugt!")
+
