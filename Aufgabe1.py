@@ -1,6 +1,6 @@
 first_name="Reza"
 last_name="Nozad"
-birth_year="1988"
+birth_year=1988
 has_license=True
 
 print("mein Vorname ist :", first_name)
